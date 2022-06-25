@@ -19,7 +19,6 @@
       </div>
     </div>
       <div class="col">
-
     </div>
 
     <div class="col-3">
